@@ -1,0 +1,20 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    font-size: 20px;
+}
+li {
+    font-size: 14px;
+}
+ul {
+    font-style:italic;
+    font-size: 12px;
+}
+div {
+    border-style: double;
+}
